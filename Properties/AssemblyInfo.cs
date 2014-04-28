@@ -10,7 +10,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Gurux Ltd")]
 [assembly: AssemblyProduct("Gurux M-Bus AddIn")]
-[assembly: AssemblyCopyright("Copyright (c) 1998-2013 Gurux Ltd. All rights reserved.")]
+[assembly: AssemblyCopyright("Copyright (c) 1998-2014 Gurux Ltd. All rights reserved.")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -21,5 +21,5 @@ using System.Runtime.InteropServices;
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
 [assembly: Guid("3e8a1c2e-27a5-4e4e-a89f-6cd8a632a774")]
-[assembly: AssemblyVersion("7.0.5.1")]
-[assembly: AssemblyFileVersion("7.0.5.1")]
+[assembly: AssemblyVersion("1.1.19.1")]
+[assembly: AssemblyFileVersion("1.1.19.1")]
